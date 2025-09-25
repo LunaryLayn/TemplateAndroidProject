@@ -24,10 +24,12 @@ Un **template de proyecto Android** moderno, con una arquitectura lista para esc
    git clone https://github.com/TU-USUARIO/TU-REPO.git
    
 4. Ábrelo en Android Studio y empieza a construir tu app.
+   
 data/          → Repositorios, fuentes de datos, API, DB
+
 domain/        → Casos de uso, modelos de dominio
-presentation/  → Pantallas Compose, ViewModels
-di/            → Módulos de inyección de dependencias (Hilt)
+
+app/  → Pantallas Compose, ViewModels
 
 💡 Siéntete libre de modificar este template según tus necesidades.  
 Si lo usas, una ⭐ en el repo siempre es bienvenida 😉
